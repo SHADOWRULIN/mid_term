@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+In this project, there are two different kinds of classes located in separate files:
+1. Bank Account
+2. Student
